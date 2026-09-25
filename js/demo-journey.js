@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodeling, tile, countertops, and backsplash. Across Tustin and Orange County. Jose looks at the job first and puts the price in writing.';
+            'Kitchen and bath remodeling, tile, countertops, and backsplash in Tustin. Jose looks at the job first and puts the price in writing.';
         }
       }
     },
